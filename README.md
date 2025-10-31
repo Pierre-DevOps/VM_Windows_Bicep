@@ -11,7 +11,7 @@ Déploiement d'une machine virtuelle Windows Server 2022 sur Azure via Bicep.
 
 ## Prérequis
 
-- Azure CLI installé et connecté (`az login`)
+- Azure CLI installé et connecté (az login)
 - PowerShell
 - Droits suffisants pour créer des ressources Azure
 
